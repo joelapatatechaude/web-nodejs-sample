@@ -2,6 +2,11 @@
     // See https://go.microsoft.com/fwlink/?LinkId=827846
     // for the documentation about the extensions.json format
     "recommendations": [
-      "redhat.fabric8-analytics"
+      "redhat.fabric8-analytics",
+      "GitLab.gitlab-workflow",
+      "redhat.vscode-openshift-connector",
+      "cnshenj.vscode-task-manager",
+      "vscode.npm",
+      "ms-vscode.js-debug"
     ]
 }
