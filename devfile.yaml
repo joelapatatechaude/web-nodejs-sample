@@ -10,6 +10,8 @@ components:
           name: nodejs
           protocol: https
           targetPort: 3000
+          attributes: 
+            urlRewriteSupported: 'true'
       memoryLimit: '1Gi'
       memoryRequest: '512Mi'
       cpuLimit: '0.5'
