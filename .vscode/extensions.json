@@ -6,7 +6,5 @@
       "GitLab.gitlab-workflow",
       "redhat.vscode-openshift-connector",
       "cnshenj.vscode-task-manager",
-      "vscode.npm",
-      "ms-vscode.js-debug"
-    ]
+      "vscode.npm"    ]
 }
