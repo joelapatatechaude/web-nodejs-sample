@@ -6,5 +6,5 @@
       "GitLab.gitlab-workflow",
       "redhat.vscode-openshift-connector",
       "cnshenj.vscode-task-manager",
-      "dbaeumer/vscode-eslint"    ]
+      "dbaeumer.vscode-eslint"    ]
 }
